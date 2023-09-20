@@ -1,0 +1,53 @@
+# Anaconda : Data Science Platform 
+
+
+
+# TensorFlow created by google ,open source
+
+dataflow graph
+
+
+# chat bot requirement
+- NLP - Natural Language Processing
+
+computer science , AI and human Language
+
+to understand human Language
+
+- Knowledge Base/CMS
+
+ability to reach and retain customers
+real time personalized customers
+
+
+- Data
+
+
+###################
+
+layers of chatbot
+
+#NLP
+            -Neural Networks - algorithm in which machine is train {input - output layers}
+            -Deep learning - neural networks with multiple hidden layers, 
+
+            eg - detect face - by giving annotate picture million pics , annotated means comment/saying/leting others know . check pixels to know by machines 
+
+
+
+
+
+
+            - TensorFlow
+
+
+###########################
+
+
+Steps:
+
+1. import all requirement modules 
+2. import json file 
+3. make list, dictionary of tags,input and response 
+4. use panda to create tabular format 
+5. 

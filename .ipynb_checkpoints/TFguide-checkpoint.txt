@@ -51,38 +51,3 @@ Steps:
 3. make list, dictionary of tags,input and response 
 4. use panda to create tabular format 
 5. 
-
-
-# HOw to create model? need to understand 
-
-################################
-
-For this chatbot for firstadd::
-we using ,
-
-# LSTM Networks
-###############
-
-Speacial form of RNN model- RNN cons is like gajni amir khan film 
-
-LSTM solve that problem 
-
-LSTM model
-##########
-
-- remove specific word from history and add new specific word in long term memory 
-
-RNN Model 
-############
-
-- Today, due to my curreent situation and family condition, I need to take a loan.
-- They don't remember
-- can complete auto sentence due to short term memory 
- 
-
-
-
-
-
-
-
